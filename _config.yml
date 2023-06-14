@@ -22,7 +22,7 @@ title: Great web agency
 email: myemail@email.com
 description: "Greate web agency offers high impact with affordable web development services."
 baseurl: "/jekyll-demosite/" # the subpath of your site, e.g. /blog
-url: "http://jelilio.github.io/jekyll-demosite/" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://jelilio.github.io/jekyll-demosite/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
