@@ -50,6 +50,10 @@ layout: default
 
         <hr />
 
+        {% if page.comments %}
+        {% include comments.html %}
+        {% endif %}
+
         {% if page.previous %}
         <span class="previous-link">
           <a rel="prev" href="{{ page.previous.url }}">Previous article</a>
